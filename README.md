@@ -3,7 +3,6 @@ Instalador de Paquetes para VPS - OpenSSH - Squid3 - Dropbear
 
 !Conf(https://github.com/powermx/vpspack/raw/master/vpspack.png)
 
-PowerMX - VPSPACK
 =========
 ## Instalacion Recomendada:
 ### Debian 7.11 x64
